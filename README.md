@@ -1,4 +1,4 @@
 Starting
 ========
 
-Exercising Git and GitHub
+Exercising Git and GitHub!!
